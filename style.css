@@ -100,12 +100,15 @@ body{
     color:black;
 }
 
+
+
 .formulario__mensaje-exito {
 	font-size: 14px;
 	color: #279518;
 	display: none;
 	font-weight: bold;
 }
+
 
 .formulario__mensaje-exito-activo {
 	display: block;
