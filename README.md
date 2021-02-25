@@ -6,3 +6,4 @@ This project was made to use and understand the regular expresions to validate a
 
 ## Tools :wrench:
 - Javascript
+- HTML
